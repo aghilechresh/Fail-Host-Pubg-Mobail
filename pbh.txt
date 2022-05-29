@@ -1,4 +1,5 @@
 127.0.0.1   localhost
+127.0.0.1   www.a.com
 43.130.68.33   1006-shadow.igamecj.com	
 51.143.238.235   2005-shadow.igamecj.com	
 51.138.218.40   2006-shadow.igamecj.com	
