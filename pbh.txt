@@ -1,3 +1,3 @@
 127.0.0.1   localhost
 127.0.0.1   www.a.com
-157.240.247.13 graph.facebook.com
+graph.facebook.com 157.240.247.13
