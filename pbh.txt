@@ -9,7 +9,8 @@
 20.41.230.56   3022-shadow.igamecj.com	
 200.25.36.76   4006-shadow.igamecj.com	
 20.74.160.19   5004-shadow.igamecj.com	
-77.242.244.14   5005-shadow.igamecj.com	
+20.74.175.165   5005-shadow.igamecj.com
+163.171.176.95  2011-shadow.igamecj.com
 152.199.21.141   abs.twimg.com	
 185.151.204.13   app.adjust.com	
 185.151.204.32   app.adjust.net.in	
@@ -49,7 +50,7 @@
 211.152.146.87   gcloud-versvr.igamecj.com	
 119.28.33.29   gcloud.download.igamecj.com	
 138.201.158.205   googleads.g.doubleclick.net	
-185.60.216.15   graph.facebook.com	
+157.240.236.15   graph.facebook.com	
 101.33.11.32   hk.api.unipay.qq.com	
 203.205.219.148   hk.voice.gcloudcs.com	
 43.132.144.70   hkping.igamecj.com	
@@ -79,7 +80,7 @@
 129.226.2.165   nawzryhwatm.broker.amsoveasea.com	
 23.52.27.27   ocsp.verisign.com	
 101.91.5.52   pandora.game.qq.com	
-23.58.223.210   pandoracdn.amsoveasea.com	
+23.10.249.138   pandoracdn.amsoveasea.com	
 119.28.201.65   pay.igamecj.com	
 184.31.10.237   pbs.twimg.com	
 157.240.9.23   platform-lookaside.fbsbx.com	
